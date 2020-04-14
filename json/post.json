@@ -1,0 +1,32 @@
+{
+    "homeTitle":"insta",
+    "postList":[
+        {
+            "id":"love__you__3000",
+            "profile":"https://github.com/tinghui522/APPwk4w2/blob/master/img/post/profile1.png?raw=true",
+            "main_img":"https://github.com/tinghui522/APPwk4w2/blob/master/img/post/post1.png?raw=true",
+            "like":"3000 ",
+            "content":"  Don't cry ! ",
+            "comment":" 31 ",
+            "time":"22 hours"
+        },
+        {
+            "id":"im_spiderman22",
+            "profile":"https://github.com/tinghui522/APPwk4w2/blob/master/img/post/profile2.png?raw=true",
+            "main_img":"https://github.com/tinghui522/APPwk4w2/blob/master/img/post/post2.png?raw=true",
+            "like":"920 ",
+            "content":"  Do you like the sunshine? ",
+            "comment":" 12 ",
+            "time":"5 days"
+        },
+        {
+            "id":"spidermanscute",
+            "profile":"https://github.com/tinghui522/APPwk4w2/blob/master/img/post/profile3.png?raw=true",
+            "main_img":"https://github.com/tinghui522/APPwk4w2/blob/master/img/post/post3.png?raw=true",
+            "like":"1231",
+            "content":"  Say cheese !  ",
+            "comment":" 52 ",
+            "time":"2 week"
+        }
+    ]
+}
